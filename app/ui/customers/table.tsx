@@ -1,6 +1,6 @@
 import Image from 'next/image';
 // @ts-ignore
-import { lusitana } from 'app/ui/fonts';
+import { lusitana } from '@/app/ui/font';
 import Search from '@/app/ui/search';
 import {
   CustomersTableType,
